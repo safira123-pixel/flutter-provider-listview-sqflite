@@ -26,7 +26,7 @@ class _MyListPageState extends State<MyListPage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text("UTS - Maulana Bintang Irfansyah - 3H"),
+        title: const Text("UTS - Safira Istifarini - 3H"),
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),

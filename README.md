@@ -5,7 +5,7 @@
 * NIm = 2041720229
 * Absen = 17
 
-Challenge untuk UTS Kerjakan salah satu saja 100 :
+Challenge untuk UTS MOBILE
 
 1. Tambahkan fitur untuk validasi input di tambah task.
 * <img src = './images/1.jpeg' >
